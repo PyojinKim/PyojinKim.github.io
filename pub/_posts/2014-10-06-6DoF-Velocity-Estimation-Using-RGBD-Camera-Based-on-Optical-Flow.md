@@ -1,5 +1,5 @@
 ---
-title: 6-DoF Velocity Estimation Using RGB-D Camera Based on Optical Flow
+title: "6-DoF Velocity Estimation Using RGB-D Camera Based on Optical Flow"
 header:
   teaser: /thumbnails/2014_SMC.png
 conference: SMC
@@ -22,9 +22,9 @@ The velocity estimation results show the high quality of estimated 6-DoF velocit
 ## Bibtex <a id="bibtex"></a>
 ```
 @inproceedings{kim20146,
-  author={Kim, Pyojin and Lim, Hyon and Kim, H Jin},
-  title={6-DoF velocity estimation using RGB-D camera based on optical flow},
-  year={2014},
-  booktitle={Systems, Man and Cybernetics (SMC), 2014 IEEE International Conference on},
+  author = {Kim, Pyojin and Lim, Hyon and Kim, H Jin},
+  title = {6-DoF Velocity Estimation Using RGB-D Camera Based on Optical Flow},
+  year = {2014},
+  booktitle = {SMC},
 }
 ```
