@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Publications"
-    url: /_pages/pub/
+    url: /_pages/pub/index.html
 
   - title: "Photography"
-    url: /_pages/photography/
+    url: /_pages/photography/index.html
