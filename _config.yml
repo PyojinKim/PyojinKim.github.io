@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Julian Straub"
+title                    : "Pyojin Kim"
 title_separator          : "-"
-name                     : "Julian Straub"
+name                     : "Pyojin Kim"
 description              : "developing artificial 3D perception"
-url                      : "http://people.csail.mit.edu/jstraub" #"http://localhost:4000" #"https://jstraub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -70,32 +70,32 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" #, "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-49442816-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Julian Straub"
-  avatar           : "JulianStraub_csail_S.jpg"
-  bio              : "developing artificial 3D perception"
-  location         : "MIT"
-  email            : "jstraub@csail.mit.edu"
-  uri              : 
+  name             : "Pyojin Kim"
+  avatar           : "bio-photo.jpg"
+  bio              : "Ph.D. student in Mechanical & Aerospace Engineering in SNU. Research interest includes robust visual odometry and real-time camera tracking (VO/SLAM)"
+  location         : "Seoul, South Korea"
+  email            : "pjinkim1215@gmail.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "130351586@N05"
-  facebook         : "jstraub6" 
+  flickr           :
+  facebook         :
   foursquare       :
-  github           : "jstraub"
-  google_plus      : "jstraub6"
-  google_scholar   : "49_cCT8AAAAJ"
+  github           : "pyojinkim"
+  google_plus      :
+  google_scholar   : "NHpe_8IAAAAJ&hl=en"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "julian-straub-56b70029"
+  linkedin         : "pyojin-kim-b732b4b0"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -105,9 +105,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "jstraub6"
-  resume           : "JulianStraub_Resume.pdf"
-  cv               : "JulianStraub_CV.pdf"
+  youtube          : "hellomynameisKPJ"
+  cv               : "PyojinKim_CV.pdf"
 
 
 # Reading Files
