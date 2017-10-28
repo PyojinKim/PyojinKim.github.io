@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 gallery_MIT:
-  - url: MIT_dome.jpg
-    image_path: MIT_dome.jpg
+  - url: photography/MIT_dome_S.jpg
+    image_path: photography/MIT_dome_S.jpg
     alt: "MIT Hack with US flag"
 gallery_landscape:
   - url: photography/torres1pano1.jpg
@@ -21,10 +21,6 @@ gallery_cityscape3:
   - url: photography/CoupleInSnow.jpg 
     image_path: photography/CoupleInSnow.jpg
     alt: "Couple in the Snow"
-gallery_portrait:
-  - url: photography/Selfportrait_Machine.jpg
-    image_path: photography/Selfportrait_Machine.jpg
-    alt: "Self through the Machine"
 ---
 
 {% include base_path %}
@@ -40,10 +36,6 @@ gallery_portrait:
 {% include gallery id="gallery_cityscape2" caption="" %}
 
 {% include gallery id="gallery_cityscape3" caption="" %}
-
-## Portrait
-
-{% include gallery id="gallery_portrait" caption="" %}
 
 ## Around MIT
 
