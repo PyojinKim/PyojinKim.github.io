@@ -1,33 +1,29 @@
 ---
 layout: single
 author_profile: true
-gallery_MIT:
-  - url: photography/MIT_dome_S.jpg
-    image_path: photography/MIT_dome_S.jpg
-    alt: "MIT Hack with US flag"
-gallery_landscape:
-  - url: photography/torres1pano1.jpg
-    image_path: photography/torres1pano1.jpg
-    alt: "Sunrise at Torres del Paine"
 gallery_cityscape1:
-  - url: photography/Boston_BW.jpg
-    image_path: photography/Boston_BW.jpg
-    alt: "Boston in Black and White"
+  - url: photography/bukhansan_temple.jpg
+    image_path: photography/bukhansan_temple.jpg
+    alt: "Bukhansan with temple"
 gallery_cityscape2:
-  - url: photography/Boston_Purple.jpg 
-    image_path: photography/Boston_Purple.jpg
-    alt: "Boston in Purple"
+  - url: photography/bukhansan_bird.jpg 
+    image_path: photography/bukhansan_bird.jpg
+    alt: "Bukhansan with bird"
 gallery_cityscape3:
-  - url: photography/CoupleInSnow.jpg 
-    image_path: photography/CoupleInSnow.jpg
-    alt: "Couple in the Snow"
+  - url: photography/bukhansan_view.jpg 
+    image_path: photography/bukhansan_view.jpg
+    alt: "Bukhansan with good view"
+gallery_landscape1:
+  - url: photography/yosemite.jpg
+    image_path: photography/yosemite.jpg
+    alt: "Yosemite"
+gallery_landscape2:
+  - url: photography/halfmoonbay.jpg
+    image_path: photography/halfmoonbay.jpg
+    alt: "Halfmoon bay"
 ---
 
 {% include base_path %}
-
-## Landscape
-
-{% include gallery id="gallery_landscape" caption="" %}
 
 ## Cityscape
 
@@ -37,7 +33,9 @@ gallery_cityscape3:
 
 {% include gallery id="gallery_cityscape3" caption="" %}
 
-## Around MIT
+## Landscape
 
-{% include gallery id="gallery_MIT" caption="" %}
+{% include gallery id="gallery_landscape1" caption="" %}
+
+{% include gallery id="gallery_landscape2" caption="" %}
 
