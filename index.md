@@ -22,9 +22,11 @@ feature_row_pub:
     excerpt: "Patch-based Illumination invariant Visual Odometry (PIVO) algorithm."
 ---
 My research interests in robotics and AI are **robust visual odometry** [[1]],
-**visual localization** [[2]], and *low-drift visual odometry* [[3]] (in Manhattan frame world).
+**visual localization** [[2]], and **low-drift visual odometry** [[3]] (in Manhattan frame world).
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
+
+
 
 [1]: {{ base_path }}/pub/Robust-Visual-Odometry-to-Irregular-Illumination-Changes-with-RGBD-camera/ "Robust VO"
 [2]: {{ base_path }}/pub/Robust-Visual-Localization-in-Changing-Lighting-Conditions/ "NASA Astrobee"
