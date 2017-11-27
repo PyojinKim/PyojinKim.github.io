@@ -21,8 +21,13 @@ feature_row_pub:
     title: "Robust VO"
     excerpt: "Patch-based Illumination invariant Visual Odometry (PIVO) algorithm."
 ---
-My research interests in robotics and AI are **robust visual odometry** [[1]],
-**visual localization** [[2]], and **low-drift visual odometry** [[3]] (in Manhattan frame world).
+
+In Spring 2013, I joined [SNU](http://en.snu.ac.kr/) to pursue a **Ph.D. in Robotics with Computer Vision**.
+Within the [Intelligent Control Systems Laboratory (ICSL)](http://icsl.snu.ac.kr/), I am currently working with [Sangil Lee](http://sangillee.me/), Changhyeon Kim, and Haram Kim.
+
+
+My research interests in robotics and AI are **Robust Visual Odometry** [[1]],
+**Visual Localization** [[2]], and **Low-Drift Visual Odometry** [[3]] (in Manhattan frame world).
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
