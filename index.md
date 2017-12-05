@@ -24,6 +24,7 @@ feature_row_pub:
 
 In Spring 2013, I joined [SNU](http://en.snu.ac.kr/) to pursue a **Ph.D. in Robotics with Computer Vision**.
 Within the [Intelligent Control Systems Laboratory (ICSL)](http://icsl.snu.ac.kr/), I am currently working with [Sangil Lee](http://sangillee.me/), Changhyeon Kim, and Haram Kim.
+I am also working and researching with [Brian Coltin](http://brian.coltin.org/) in the [NASA Ames Intelligent Robotics Group](https://www.nasa.gov/centers/ames/research/area-autonomy-and-robotics.html).
 
 
 My research interests in robotics and AI are **Robust Visual Odometry** [[1]],
