@@ -39,7 +39,7 @@ demonstrate an improved accuracy and lower drift error.
 
 ## Bibtex <a id="bibtex"></a>
 ```
-@inproceedings{kim2017visual,
+@inproceedings{kim2018low,
   author = {Kim, Pyojin and Coltin, Brian and Kim, H Jin},
   title = {Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion},
   year = {2018},
