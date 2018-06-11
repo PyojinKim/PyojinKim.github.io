@@ -10,6 +10,9 @@ links:
  - video: 
    link: https://youtu.be/qusvgMequqM
    name: "Video"
+ - poster: 
+   link: /download/posters/2018_CVPR_poster.pdf
+   name: "Poster"
  - bibtex: 
    name: "Bibtex"
 excerpt: "We propose a novel approach to estimate the three degrees of freedom (DoF) drift-free rotational motion of an RGB-D camera from only a single line and plane in the Manhattan world (MW). Previous approaches exploit structural regularities to achieve accurate 3-DoF rotation estimation by using the distribution of surface normal vectors and points at infinity, i.e., vanishing points (VPs). However, they require multiple orthogonal planes or a plenty of consistent lines to be visible throughout the entire rotation estimation process; otherwise, these approaches fail. To overcome these limitations, we present a new method that estimates absolute camera orientation from only a single line and a single plane in RANSAC, which corresponds to the theoretical minimal sampling for 3-DoF rotation estimation. Once we find an initial rotation estimate, we refine the camera orientation by minimizing the average orthogonal distance from the endpoints of the inliers (parallel and orthogonal lines). We demonstrate the superiority of the proposed algorithm through an extensive evaluation on a variety of RGB-D datasets and compare with other state-of-the-art methods."
