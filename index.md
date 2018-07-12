@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: main_landscape/Yosemite_withme.jpg
-excerpt: "developing 3-D machine perception algorithms"
+excerpt: "developing 3D machine perception"
 feature_row_pub:
   - url: /pub/Linear-RGBD-SLAM-for-Planar-Environments/
     image_path: thumbnails/2018_ECCV.png
