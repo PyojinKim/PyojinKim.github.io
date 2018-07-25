@@ -4,6 +4,9 @@ header:
   teaser: /thumbnails/2018_ECCV.png
 conference: ECCV
 links: 
+ - paper: 
+   link: /download/papers/2018_ECCV.pdf
+   name: "Paper"
  - video: 
    link: https://youtu.be/GO0Q0ZiBiSE
    name: "Video"
