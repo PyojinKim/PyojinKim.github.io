@@ -1,11 +1,11 @@
 ---
 title: "Visual Inertial Odometry with Pentafocal Geometric Constraints"
 header:
-  teaser: /thumbnails/2017_IJCAS.png
+  teaser: /thumbnails/2018_IJCAS.png
 conference: IJCAS
 links: 
  - paper: 
-   link: /download/papers/2017_IJCAS.pdf
+   link: /download/papers/2018_IJCAS.pdf
    name: "Paper"
  - video: 
    link: https://youtu.be/24nnjRNjI1k
@@ -27,10 +27,10 @@ It shows more accurate state estimation performance compared to the well-known s
 
 ## Bibtex <a id="bibtex"></a>
 ```
-@inproceedings{kim2017visual,
+@inproceedings{kim2018visual,
   author = {Kim, Pyojin and Lim, Hyon and Kim, H Jin},
   title = {Visual Inertial Odometry with Pentafocal Geometric Constraints},
-  year = {2017},
+  year = {2018},
   booktitle = {IJCAS},
 }
 ```
