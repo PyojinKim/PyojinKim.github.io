@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Pyojin Kim"
   avatar           : "bio-photo.jpg"
-  bio              : "Ph.D. student in Mechanical & Aerospace Engineering in SNU. Research interest includes robust visual odometry and real-time camera tracking (VO/SLAM)"
-  location         : "Seoul, South Korea"
+  bio              : "developing 3D machine perception algorithms and systems"
+  location         : "Mountain View, Google"
   email            : "pjinkim1215@gmail.com"
   uri              :
   bitbucket        :
