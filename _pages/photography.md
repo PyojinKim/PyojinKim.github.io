@@ -21,21 +21,33 @@ gallery_landscape2:
   - url: photography/halfmoonbay.jpg
     image_path: photography/halfmoonbay.jpg
     alt: "Halfmoon bay"
+gallery_landscape3:
+  - url: photography/grand_canyon.jpg
+    image_path: photography/grand_canyon.jpg
+    alt: "Grand canyon"
+gallery_landscape4:
+  - url: photography/zion_canyon.jpg
+    image_path: photography/zion_canyon.jpg
+    alt: "Zion canyon"
 ---
 
 {% include base_path %}
 
-## Cityscape
-
-{% include gallery id="gallery_cityscape1" caption="" %}
-
-{% include gallery id="gallery_cityscape2" caption="" %}
-
-{% include gallery id="gallery_cityscape3" caption="" %}
-
 ## Landscape
+
+{% include gallery id="gallery_landscape4" caption="" %}
+
+{% include gallery id="gallery_landscape3" caption="" %}
+
+{% include gallery id="gallery_landscape2" caption="" %}
 
 {% include gallery id="gallery_landscape1" caption="" %}
 
-{% include gallery id="gallery_landscape2" caption="" %}
+## Cityscape
+
+{% include gallery id="gallery_cityscape3" caption="" %}
+
+{% include gallery id="gallery_cityscape2" caption="" %}
+
+{% include gallery id="gallery_cityscape1" caption="" %}
 
