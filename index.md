@@ -22,9 +22,12 @@ feature_row_pub:
     excerpt: "Autonomous drone flights with the robust visual odometry under dynamic lighting conditions."
 ---
 
-In Spring 2013, I joined [SNU](http://en.snu.ac.kr/) to pursue a **Ph.D. in Robotics with Computer Vision**.
-Within the [Intelligent Control Systems Laboratory (ICSL)](http://icsl.snu.ac.kr/), I am currently working with [Sangil Lee](http://sangillee.me/), Changhyeon Kim, and Haram Kim.
-I am also working and researching with [Brian Coltin](http://brian.coltin.org/) in the [NASA Ames Intelligent Robotics Group](https://www.nasa.gov/centers/ames/research/area-autonomy-and-robotics.html).
+I am thrilled to be a postdoctoral fellow in [GrUVi Lab](http://gruvi.cs.sfu.ca/) with [Prof. Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/) at [Simon Fraser University](https://www.sfu.ca/).
+Current areas of focus include robotics and 3D visual computing, AR/VR, geometric and image-based modeling, machine learning, inference and optimization.
+
+
+In spring 2019, I defended my PhD thesis on [Low-Drift Visual Odometry for Indoor Robotics]({{ base_path }}/pub/Low-Drift-Visual-Odometry-for-Indoor-Robotics).
+My advisor at [SNU](http://en.snu.ac.kr/) within the [Lab for Autonomous Robotics Research (LARR)](http://larr.snu.ac.kr/) was [H. Jin Kim](http://larr.snu.ac.kr/index.php/people/).
 
 
 My research interests in robotics and AI are **Robust Visual Odometry** [[1]], **Visual Localization** [[2]],
