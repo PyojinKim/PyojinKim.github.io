@@ -27,7 +27,7 @@ Current areas of focus include robotics and 3D visual computing, AR/VR, geometri
 
 
 In spring 2019, I defended my PhD thesis on [Low-Drift Visual Odometry for Indoor Robotics]({{ base_path }}/pub/Low-Drift-Visual-Odometry-for-Indoor-Robotics).
-My advisor at [SNU](http://en.snu.ac.kr/) within the [Lab for Autonomous Robotics Research (LARR)](http://larr.snu.ac.kr/) was [H. Jin Kim](http://larr.snu.ac.kr/index.php/people/).
+My advisor at [SNU](http://en.snu.ac.kr/) within the [Lab for Autonomous Robotics Research (LARR)](http://larr.snu.ac.kr/) was [Prof. H. Jin Kim](http://larr.snu.ac.kr/index.php/people/).
 
 
 My research interests in robotics and AI are **Robust Visual Odometry** [[1]], **Visual Localization** [[2]],
