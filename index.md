@@ -22,7 +22,7 @@ feature_row_pub:
     excerpt: "Autonomous drone flights with the robust visual odometry under dynamic lighting conditions."
 ---
 
-I am thrilled to be a postdoctoral fellow in [GrUVi Lab](http://gruvi.cs.sfu.ca/) with [Prof. Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/) at [Simon Fraser University](https://www.sfu.ca/).
+I am thrilled to be a postdoctoral fellow in [GrUVi Lab](http://gruvi.cs.sfu.ca/) under the supervision of [Prof. Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/) at [Simon Fraser University](https://www.sfu.ca/).
 Current areas of focus include robotics and 3D visual computing, AR/VR, geometric and image-based modeling, machine learning, inference and optimization.
 
 
