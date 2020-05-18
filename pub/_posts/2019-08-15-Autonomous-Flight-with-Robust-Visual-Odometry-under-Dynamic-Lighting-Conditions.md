@@ -1,11 +1,11 @@
 ---
 title: "Autonomous Flight with Robust Visual Odometry under Dynamic Lighting Conditions"
 header:
-  teaser: /thumbnails/2018_AURO.png
+  teaser: /thumbnails/2019_AURO.png
 conference: AURO
 links: 
  - paper: 
-   link: /download/papers/2018_AURO.pdf
+   link: /download/papers/2019_AURO.pdf
    name: "Paper"
  - video: 
    link: https://youtu.be/agOxpphFDfE
@@ -27,10 +27,10 @@ Autonomous flight experiments with an aerial robot show that the proposed method
 
 ## Bibtex <a id="bibtex"></a>
 ```
-@inproceedings{kim2018autonomous,
+@inproceedings{kim2019autonomous,
   author = {Kim, Pyojin and Lee, Hyeonbeom and Kim, H Jin},
   title = {Autonomous Flight with Robust Visual Odometry under Dynamic Lighting Conditions},
-  year = {2018},
+  year = {2019},
   booktitle = {AURO},
 }
 ```

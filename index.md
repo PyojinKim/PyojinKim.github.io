@@ -16,7 +16,7 @@ feature_row_pub:
     title: "Localization"
     excerpt: "Robust visual localization for the Astrobee, a free-flying robot on the ISS develpoed by NASA Ames Research Center."
   - url: /pub/Robust-Visual-Odometry-to-Irregular-Illumination-Changes-with-RGBD-camera/
-    image_path: /thumbnails/2018_AURO.png
+    image_path: /thumbnails/2019_AURO.png
     alt: "Robust VO"
     title: "Robust VO"
     excerpt: "Autonomous drone flights with the robust visual odometry under dynamic lighting conditions."
